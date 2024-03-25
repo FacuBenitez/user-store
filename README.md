@@ -1,6 +1,6 @@
 # Rest Project + TypeScript
 
-Este proyecto está construido con TypeScript, Express y proporciona una API REST completa. Permite crear y autenticar usuarios, registrar logs de actividad y manejar la subida de archivos como imágenes y GIFs.
+Este proyecto está construido con TypeScript, Express y proporciona una API REST completa. Permite crear y autenticar usuarios y manejar la subida de archivos como imágenes y GIFs.
 
 ## Características principales
 
